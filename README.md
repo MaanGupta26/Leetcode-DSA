@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
