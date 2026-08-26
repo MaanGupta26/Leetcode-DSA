@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Sliding Window
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
