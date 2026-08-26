@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
