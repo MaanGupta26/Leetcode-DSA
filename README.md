@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
@@ -37,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
