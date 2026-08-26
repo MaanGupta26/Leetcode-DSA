@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
