@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Sliding Window
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
