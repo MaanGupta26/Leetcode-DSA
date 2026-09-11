@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
 | ------- |
