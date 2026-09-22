@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0338-counting-bits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,10 +86,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
