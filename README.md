@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0867-transpose-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0867-transpose-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
