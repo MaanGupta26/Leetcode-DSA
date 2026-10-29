@@ -29,7 +29,7 @@ public:
         }
         ListNode* nodeToDelete = temp2->next;
         temp2->next = temp2->next->next;
-        delete nodeToDelete;
+        delete nodeToDelete;  
         
         return head;
     }
