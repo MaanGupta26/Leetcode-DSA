@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
