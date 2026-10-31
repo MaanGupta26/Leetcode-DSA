@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
