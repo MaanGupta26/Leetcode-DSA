@@ -123,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
