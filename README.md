@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
 | ------- |
