@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0859-buddy-strings) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0520-detect-capital) |
+| [0859-buddy-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0859-buddy-strings) |
 ## Sorting
 |  |
 | ------- |
