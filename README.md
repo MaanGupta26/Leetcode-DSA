@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0859-buddy-strings) |
