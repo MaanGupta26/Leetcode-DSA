@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0859-buddy-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0859-buddy-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/MaanGupta26/Leetcode-DSA/tree/master/0859-buddy-strings) |
